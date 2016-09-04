@@ -3,7 +3,7 @@
 A shortcode based Lightweight WordPress plugin that creates custom login and registration forms that can be implemented using a shortcode.
 
 === Kamerpower WP Custom Login & Registration (Lightweight plugin for Wordpress)  ===
-Contributors: Alondi https://kamerpower.com/fr/
+Contributors: Alondi . C. https://kamerpower.com/fr/
 Tags: custom registration form, custom login, custom redirects, front-end login, front-end user registration, recaptcha, shortcodes
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=73UWQZ6ZKHCJ6
 Requires at least: 4.0
